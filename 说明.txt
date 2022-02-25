@@ -1,0 +1,9 @@
+1.  LOAM 有两篇论文，内容基本相同：
+     (1). https://www.ri.cmu.edu/pub_files/2014/7/Ji_LidarMapping_RSS2014_v8.pdf
+     (2). https://sci-hub.yncjkj.com/10.1007/s10514-016-9548-2
+2. 香港科技大学实现的 LOAM 源码 A-LOAM：
+     (1). https://github.com/HKUST-Aerial-Robotics/A-LOAM
+3. 本人对论文的翻译在 CSDN：
+     (1). https://blog.csdn.net/qq_26697045/article/details/122226213
+4. 该代码是本人在 A-LOAM 上添加的注释：
+     (1). https://github.com/boyob/LOAM
